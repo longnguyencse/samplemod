@@ -8,6 +8,12 @@ $ pip install 'SomePackage>=1.0.4'   # minimum version\
 PEP stands for Python Enhancement Proposal.\
 .rst - reStructuredText PEP Template \
 
+*** Check version of lib
+        pip freeze
+*** setup.py vs requirements.txt
+https://caremad.io/posts/2013/07/setup-vs-requirement/
+*** references: https://pip.pypa.io/en/stable/reference/pip_install/#pip-install-examples \
+
 *** Run command line: python __init__.py or python3 __init__.python
 
 If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
